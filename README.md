@@ -4,7 +4,7 @@
 
 This project is an interactive web application built using Streamlit, designed for data analysis and causation analysis. Users can upload datasets, perform data preprocessing, explore data visually, conduct regression and classification analysis, perform extensive data analysis, and explore causal relationships in their data.
 
-To see the app running visit https://causation.streamlit.app/](https://advanceddataanlyticsappapp-ranasheharyar.streamlit.app/
+To see the app running visit https://advanceddataanlyticsappapp-ranasheharyar.streamlit.app/
 
 ## Key Features
 
