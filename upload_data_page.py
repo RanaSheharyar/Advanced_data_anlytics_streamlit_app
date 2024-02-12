@@ -34,7 +34,7 @@ def upload_data():
 
     If you want to look at this app's code or see the datasets it works with out of the box,click the link below
     
-    [App github page](https://github.com/nstepka/Causation)
+    [App github page](https://github.com/ranasheharyar)
     """)
 
 
@@ -63,8 +63,8 @@ def upload_data():
 
     I am enthusiastic about exploring the intersection of technology and business, particularly how data-driven strategies can optimize performance and drive growth. My goal is to utilize my skills in Python, machine learning, and statistical modeling to contribute to the field of business intelligence and data science, creating impactful solutions for challenging problems.
 
-    Check out my first Tableau Dashboard I created on a cold Sunday morning! https://public.tableau.com/app/profile/nstepka/viz/AirbnbDataSet_17052522761620/Dashboard1
+    Check out my first Tableau Dashboard I created on a cold Sunday morning! https://public.tableau.com/app/profile/ranasheharyar
     
-    [Connect with me on LinkedIn](https://www.linkedin.com/in/nstepka/)""")
+    [Connect with me on LinkedIn](https://www.linkedin.com/in/ranasheharyar/)""")
 
     
